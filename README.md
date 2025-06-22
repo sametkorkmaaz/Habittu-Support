@@ -1,6 +1,6 @@
 # Habittu App Support
 
-Welcome to the official support page for the Habitu iOS app.
+Welcome to the official support page for the Habittu iOS app.
 
 ---
 
@@ -8,8 +8,7 @@ Welcome to the official support page for the Habitu iOS app.
 
 If you have any questions, feedback, or need assistance, please feel free to contact us. We will get back to you as soon as possible.
 
-* **Email Support:** [destek.habitu@gmail.com](mailto:destek.habitu@gmail.com) 
-    *(Lütfen buraya kendi destek e-posta adresini yaz)*
+* **Email Support:** [samet.korkmaz.development@gmail.com](samet.korkmaz.development@gmail.com) 
 
 For bug reports or feature requests, you can also open an issue on this repository's "Issues" tab.
 
